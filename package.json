@@ -1,0 +1,17 @@
+{
+  "name": "musalatask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha --timeout 15000"
+  },
+  "author": "Neli",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.4.0"
+  },
+  "devDependencies": {
+    "mocha-param": "^2.0.1"
+  }
+}
